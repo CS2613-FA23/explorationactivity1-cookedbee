@@ -4,11 +4,11 @@
 1. this program demonstrates the use of the cryptographic services package in python, more specifically the hashlib library[1]
 
 2. you run this program by first providing the prompt with your password, then after you will be prompted to put if you want your password to be secures or not,
-	if no is chosen then the program ends, but if yes is chosen you are then prompted to chose if you want the password to be secured automaticaly or manually,
-	if automatically is chosen you will be prompted to put if you want your secured password in hex or not, then it returns the new secured password, then the program ends,
-	but if manually is chosen then you are first prompted to provide which hashing digest algorithm you wish to use[2], after one has been chosen you are then
-	prompted to chose between having your password hexed or not , then you are prompted to provide the program with your desired salt string and 
-	your desired key length. these values are then passed through, and the program returns the new secured password.
+   if no is chosen then the program ends, but if yes is chosen you are then prompted to chose if you want the password to be secured automaticaly or manually,
+   if automatically is chosen you will be prompted to put if you want your secured password in hex or not, then it returns the new secured password, then the program ends,
+   but if manually is chosen then you are first prompted to provide which hashing digest algorithm you wish to use[2], after one has been chosen you are then
+   prompted to chose between having your password hexed or not , then you are prompted to provide the program with your desired salt string and 
+   your desired key length. these values are then passed through, and the program returns the new secured password.
 	
 3. this program takes a user inputed password and uses key derivation for secure password hashing, this program specifically uses the pbkd2 hmac()[3] function
    it takes in a hashing agorithm , the password, a slat string and the derived key length, and then the password returns as either hex or not depending on thier preference. 
