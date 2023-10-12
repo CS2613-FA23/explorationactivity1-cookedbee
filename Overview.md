@@ -50,12 +50,17 @@
   ##some sample code and output:
   
   for hashlib:
+
+  
   
   <img width="462" alt="hashpass" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/ebf87901-7311-4e4a-9477-76afb91e2c80">
 <img width="714" alt="hashpass out" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/f8325371-29e2-4e1a-a3dc-0808c85c2bd3">
 
 
+
   for key derivation:
+
+
   
   <img width="505" alt="keyderive" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/606c4763-0234-4e5e-94f1-8953353a6c89">
   
@@ -63,6 +68,8 @@
 
 
   for BLAKE2:
+
+
   
   <img width="610" alt="blake2" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/5bdc2638-8869-4e6b-9eed-4469c6a0140d">
   
