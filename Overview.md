@@ -102,7 +102,7 @@
   developed proficiency in writing code in python, and I have even started developing a coding style for the language.
   It also helped me to learn how to better navigate python documentation.
 
-#Question 7
+# Question 7
   
   ## When would i recommend this library to someone❓
   
