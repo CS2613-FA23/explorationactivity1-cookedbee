@@ -38,7 +38,7 @@
   are very difficult to crack, even highly efficient password cracking software has great difficulty cracking them[8]. You usually use this library if
   you are trying to secure data, this is done with the hash algorithms, but be carful as they aren't all strong or safe, so it is important to keep up
   to date with all things regarding this module[9]. If you want secure password hashing, like what i did in my program, you would use key derivation
-  functions, like the ones i utilized in my program. If you want to verify both the data integrity and the authenticity of a given message , you should
+  functions, like the ones I utilized in my program. If you want to verify both the data integrity and the authenticity of a given message , you should
   use the hmac module, because it uses a secret cryptographic key[10]. If you want secure random numbers, like to use for password hashing or secret
   storage , you would use the secrets module. Additionally you would also use secrets if you wanted to generate secure tokens, to get like hard to guess
   URLs or password resets[11].
@@ -58,7 +58,45 @@
   
   
   
+# Question 4
+
+  ## When was it created❓
   
+  It has a release history dating back to july 3, 2009[12].
+  
+# Question 5
+  
+  ## Why did I chose this library❓
+  
+  I chose this library because the cybersecurity and cryptography side of python has always interested me. 
+  I wanted to explore these kinds of topics more in depth because I want to enter the field of cybersecurity 
+  after graduation, so I thought that expanding my knowledge on the subject would prove helpful.
+
+# Question 6
+  
+  ## How did learning the library influence my learning of the language❓
+  
+  It taught me alot about how flexible python is and it showed me a glimpse of how versatile
+  the language is, knowing this has allowed me to get a better understanding of how this language operates
+  as compared to java, which is starting to help me become better at programming in python. Doing this library also exposed me 
+  to alot of the other built in functions that can be used in python. Because i learnt about this package I have further 
+  developed proficiency in writing code in python, and I have even started developing a coding style for the language.
+  It also helped me to learn how to better navigate python documentation.
+
+#Question 7
+  
+  ## When would i recommend this library to someone❓
+  
+  I would recommend it to someone if they desired to secure somesort of data or message, especially if
+  it involves some sort of very important information, like for a government organization, against any
+  type of hacker, this library has the potential to produce data that is very hard to crack. 
+  
+  ## Would I continue to use the library❓
+  
+  I personally would not, unless I have a job that requires me to secure data, because
+  I like the way that hash algorithms secure data. I don't think that it has much practical
+  use in everyday coding projects, it is for a specific thing in a specific field, and I have
+  never before this activity, used cryptography. 
   
   
 References:
@@ -73,3 +111,5 @@ References:
 [9] https://rixx.de/blog/december-10-python-cryptographic-service-modules/
 [10] https://rixx.de/blog/december-10-python-cryptographic-service-modules/
 [11] https://rixx.de/blog/december-10-python-cryptographic-service-modules/
+[12] https://pypi.org/project/hashlib/#history
+
