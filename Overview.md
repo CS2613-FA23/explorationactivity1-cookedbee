@@ -110,7 +110,7 @@
   it involves some sort of very important information, like for a government organization, against any
   type of hacker, this library has the potential to produce data that is very hard to crack. 
   
-  ## Would I continue to use the library❓
+  ## Would I continue to use the library⁉️
   
   I personally would not, unless I have a job that requires me to secure data, because
   I like the way that hash algorithms secure data. I don't think that it has much practical
