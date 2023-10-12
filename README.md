@@ -37,6 +37,10 @@
    if they did not.
 
 # Some sample output screenshots
+<img width="597" alt="Screenshot 2023-10-11 at 8 24 53 PM" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/aa0f71bb-eda7-4298-81a7-77a83e57159c">
+<img width="624" alt="Screenshot 2023-10-11 at 8 25 10 PM" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/e2ff358a-ba08-483c-ab2b-22bfe9cf66bb">
+<img width="622" alt="Screenshot 2023-10-11 at 8 27 10 PM" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/55552282-7e64-4f99-9385-599eefb4af4c">
+<img width="617" alt="Screenshot 2023-10-11 at 8 27 40 PM" src="https://github.com/CS2613-FA23/explorationactivity1-cookedbee/assets/118692386/c6d2f708-3d65-44e8-b080-3c7ce2e96a1b">
 
 References:
 [1] https://docs.python.org/3/library/hashlib.html
